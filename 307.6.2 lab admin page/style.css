@@ -1,0 +1,10 @@
+.nav{
+    border-style: solid;
+    background-color:lightcoral;
+}
+
+.flex-container{
+    display: flex;
+    flex-wrap: wrap;
+
+}
